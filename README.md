@@ -1,4 +1,4 @@
-# S-DBpedia
+# S-DBpedia: A benchmark dataset for spatial knowledge graph completion
 
 - A benchmark for Spatial Knowledge Graph Completion (**SKGC**) extracted from **DBpedia**.
 - It can be used to evaluate Knowledge Graph Embedding methods or to evaluate Knowledge Graph Embedding methods with **attributes**.
